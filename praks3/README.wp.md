@@ -13,3 +13,4 @@ algselt tegin index.php faili, kuhu panin algse lehe. Antud fail asub praks3 kau
 pilt on saadaval praks3 kaustas .png failina
 kasutajale oma lehe saamiseks tegin public_html kausta test.php faili, kuhu sisestasin tavalise teksti ning php käsu$
 <?php echo '<p> mingi asi mis ma panin sinna </p>'; ?>
+
