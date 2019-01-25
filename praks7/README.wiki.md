@@ -10,3 +10,6 @@ chgrp -R www-data:www-data /var/www/html/dokuwiki
 
 5. dokuwiki lehele minemiseks sisestasin aadressiribale oma ip /dokuwiki
 6. pilte sain panna loogsulgude abil {}
+7. erinevaid pealkirje saab teha võrdusmärkide abil näiteks
+
+=== pealkiri ===
